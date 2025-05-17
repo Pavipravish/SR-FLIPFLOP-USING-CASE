@@ -1,5 +1,5 @@
 # SR-FLIPFLOP-USING-CASE
-
+# DATE 25/04/2025
 **AIM:**
 
 To implement  SR flipflop using verilog and validating their functionality using their functional tables
@@ -70,7 +70,7 @@ endmodule
 ```
 
 # Developed by: PRAVISH J
-# RegisterNumber: 24901067
+# RegisterNumber: 212224040249
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
